@@ -1,0 +1,23 @@
+ <div class="site-section">
+      <div class="container">
+        <div class="row mb-5">
+          <div class="col-md-7">
+            <h2 class="heading">Book Screenshot</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eos, harum repudiandae provident neque voluptas odio nostrum officiis debitis et vitae, dolorem placeat fugiat recusandae aperiam aspernatur expedita alias, officia. Suscipit!</p>
+            <p class="mb-3">
+              <a href="#" class="customNextBtn">Prev</a>
+              <span class="mx-2">/</span>
+              <a href="#" class="customPrevBtn">Next</a>
+            </p>
+          </div>
+        </div>
+        
+        <div class="owl-carousel slide-one-item">
+          <img src="images/img_1.jpg" alt="Image" class="img-fluid">
+          <img src="images/img_2.jpg" alt="Image" class="img-fluid">
+          <img src="images/img_3.jpg" alt="Image" class="img-fluid">
+          <img src="images/img_4.jpg" alt="Image" class="img-fluid">
+          <img src="images/img_5.jpg" alt="Image" class="img-fluid">
+        </div>
+      </div>
+    </div>
