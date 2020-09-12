@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: enjeeneering.tech
+Token: 8fec9590ccabb04a5dde94405a51a83bd3e9290a8cc7e766f64ef82ab900ee31
